@@ -1,3 +1,5 @@
+msgid "Open Web Interface"
+msgstr "打开网页界面"
 
 msgid "Base Setting"
 msgstr "基础设置"
