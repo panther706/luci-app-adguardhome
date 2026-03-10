@@ -111,7 +111,7 @@ o:value("-9", translate("compress better"))
 o:value("--best", translate("compress best(can be slow for big files)"))
 o:value("--brute", translate("try all available compression methods & filters [slow]"))
 o:value("--ultra-brute", translate("try even more compression variants [very slow]"))
-o.default     = ""
+o.default     = "none"
 o.description=translate("bin use less space,but may have compatibility issues")
 o.rmempty = true
 ---- config path
